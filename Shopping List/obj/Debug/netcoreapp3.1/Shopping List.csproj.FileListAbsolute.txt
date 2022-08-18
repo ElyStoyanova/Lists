@@ -1,0 +1,13 @@
+C:\Users\estoy\source\repos\Lists\Shopping List\obj\Debug\netcoreapp3.1\Shopping List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estoy\source\repos\Lists\Shopping List\obj\Debug\netcoreapp3.1\Shopping List.AssemblyInfoInputs.cache
+C:\Users\estoy\source\repos\Lists\Shopping List\obj\Debug\netcoreapp3.1\Shopping List.AssemblyInfo.cs
+C:\Users\estoy\source\repos\Lists\Shopping List\obj\Debug\netcoreapp3.1\Shopping List.csproj.CoreCompileInputs.cache
+C:\Users\estoy\source\repos\Lists\Shopping List\bin\Debug\netcoreapp3.1\Shopping List.exe
+C:\Users\estoy\source\repos\Lists\Shopping List\bin\Debug\netcoreapp3.1\Shopping List.deps.json
+C:\Users\estoy\source\repos\Lists\Shopping List\bin\Debug\netcoreapp3.1\Shopping List.runtimeconfig.json
+C:\Users\estoy\source\repos\Lists\Shopping List\bin\Debug\netcoreapp3.1\Shopping List.runtimeconfig.dev.json
+C:\Users\estoy\source\repos\Lists\Shopping List\bin\Debug\netcoreapp3.1\Shopping List.dll
+C:\Users\estoy\source\repos\Lists\Shopping List\bin\Debug\netcoreapp3.1\Shopping List.pdb
+C:\Users\estoy\source\repos\Lists\Shopping List\obj\Debug\netcoreapp3.1\Shopping List.dll
+C:\Users\estoy\source\repos\Lists\Shopping List\obj\Debug\netcoreapp3.1\Shopping List.pdb
+C:\Users\estoy\source\repos\Lists\Shopping List\obj\Debug\netcoreapp3.1\Shopping List.genruntimeconfig.cache

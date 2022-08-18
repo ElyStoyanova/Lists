@@ -1,0 +1,14 @@
+C:\Users\estoy\source\repos\Lists\Mu Online\bin\Debug\netcoreapp3.1\Mu Online.exe
+C:\Users\estoy\source\repos\Lists\Mu Online\bin\Debug\netcoreapp3.1\Mu Online.deps.json
+C:\Users\estoy\source\repos\Lists\Mu Online\bin\Debug\netcoreapp3.1\Mu Online.runtimeconfig.json
+C:\Users\estoy\source\repos\Lists\Mu Online\bin\Debug\netcoreapp3.1\Mu Online.runtimeconfig.dev.json
+C:\Users\estoy\source\repos\Lists\Mu Online\bin\Debug\netcoreapp3.1\Mu Online.dll
+C:\Users\estoy\source\repos\Lists\Mu Online\bin\Debug\netcoreapp3.1\Mu Online.pdb
+C:\Users\estoy\source\repos\Lists\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.csproj.AssemblyReference.cache
+C:\Users\estoy\source\repos\Lists\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estoy\source\repos\Lists\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.AssemblyInfoInputs.cache
+C:\Users\estoy\source\repos\Lists\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.AssemblyInfo.cs
+C:\Users\estoy\source\repos\Lists\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.csproj.CoreCompileInputs.cache
+C:\Users\estoy\source\repos\Lists\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.dll
+C:\Users\estoy\source\repos\Lists\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.pdb
+C:\Users\estoy\source\repos\Lists\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.genruntimeconfig.cache

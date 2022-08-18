@@ -1,0 +1,13 @@
+C:\Users\estoy\source\repos\Lists\List of Products\bin\Debug\netcoreapp3.1\List of Products.exe
+C:\Users\estoy\source\repos\Lists\List of Products\bin\Debug\netcoreapp3.1\List of Products.deps.json
+C:\Users\estoy\source\repos\Lists\List of Products\bin\Debug\netcoreapp3.1\List of Products.runtimeconfig.json
+C:\Users\estoy\source\repos\Lists\List of Products\bin\Debug\netcoreapp3.1\List of Products.runtimeconfig.dev.json
+C:\Users\estoy\source\repos\Lists\List of Products\bin\Debug\netcoreapp3.1\List of Products.dll
+C:\Users\estoy\source\repos\Lists\List of Products\bin\Debug\netcoreapp3.1\List of Products.pdb
+C:\Users\estoy\source\repos\Lists\List of Products\obj\Debug\netcoreapp3.1\List of Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estoy\source\repos\Lists\List of Products\obj\Debug\netcoreapp3.1\List of Products.AssemblyInfoInputs.cache
+C:\Users\estoy\source\repos\Lists\List of Products\obj\Debug\netcoreapp3.1\List of Products.AssemblyInfo.cs
+C:\Users\estoy\source\repos\Lists\List of Products\obj\Debug\netcoreapp3.1\List of Products.csproj.CoreCompileInputs.cache
+C:\Users\estoy\source\repos\Lists\List of Products\obj\Debug\netcoreapp3.1\List of Products.dll
+C:\Users\estoy\source\repos\Lists\List of Products\obj\Debug\netcoreapp3.1\List of Products.pdb
+C:\Users\estoy\source\repos\Lists\List of Products\obj\Debug\netcoreapp3.1\List of Products.genruntimeconfig.cache

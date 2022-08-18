@@ -1,0 +1,14 @@
+C:\Users\estoy\source\repos\Lists\Train\bin\Debug\netcoreapp3.1\Train.exe
+C:\Users\estoy\source\repos\Lists\Train\bin\Debug\netcoreapp3.1\Train.deps.json
+C:\Users\estoy\source\repos\Lists\Train\bin\Debug\netcoreapp3.1\Train.runtimeconfig.json
+C:\Users\estoy\source\repos\Lists\Train\bin\Debug\netcoreapp3.1\Train.runtimeconfig.dev.json
+C:\Users\estoy\source\repos\Lists\Train\bin\Debug\netcoreapp3.1\Train.dll
+C:\Users\estoy\source\repos\Lists\Train\bin\Debug\netcoreapp3.1\Train.pdb
+C:\Users\estoy\source\repos\Lists\Train\obj\Debug\netcoreapp3.1\Train.csproj.AssemblyReference.cache
+C:\Users\estoy\source\repos\Lists\Train\obj\Debug\netcoreapp3.1\Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estoy\source\repos\Lists\Train\obj\Debug\netcoreapp3.1\Train.AssemblyInfoInputs.cache
+C:\Users\estoy\source\repos\Lists\Train\obj\Debug\netcoreapp3.1\Train.AssemblyInfo.cs
+C:\Users\estoy\source\repos\Lists\Train\obj\Debug\netcoreapp3.1\Train.csproj.CoreCompileInputs.cache
+C:\Users\estoy\source\repos\Lists\Train\obj\Debug\netcoreapp3.1\Train.dll
+C:\Users\estoy\source\repos\Lists\Train\obj\Debug\netcoreapp3.1\Train.pdb
+C:\Users\estoy\source\repos\Lists\Train\obj\Debug\netcoreapp3.1\Train.genruntimeconfig.cache

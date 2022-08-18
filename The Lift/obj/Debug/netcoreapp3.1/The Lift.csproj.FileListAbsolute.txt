@@ -1,0 +1,14 @@
+C:\Users\estoy\source\repos\Lists\The Lift\bin\Debug\netcoreapp3.1\The Lift.exe
+C:\Users\estoy\source\repos\Lists\The Lift\bin\Debug\netcoreapp3.1\The Lift.deps.json
+C:\Users\estoy\source\repos\Lists\The Lift\bin\Debug\netcoreapp3.1\The Lift.runtimeconfig.json
+C:\Users\estoy\source\repos\Lists\The Lift\bin\Debug\netcoreapp3.1\The Lift.runtimeconfig.dev.json
+C:\Users\estoy\source\repos\Lists\The Lift\bin\Debug\netcoreapp3.1\The Lift.dll
+C:\Users\estoy\source\repos\Lists\The Lift\bin\Debug\netcoreapp3.1\The Lift.pdb
+C:\Users\estoy\source\repos\Lists\The Lift\obj\Debug\netcoreapp3.1\The Lift.csproj.AssemblyReference.cache
+C:\Users\estoy\source\repos\Lists\The Lift\obj\Debug\netcoreapp3.1\The Lift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estoy\source\repos\Lists\The Lift\obj\Debug\netcoreapp3.1\The Lift.AssemblyInfoInputs.cache
+C:\Users\estoy\source\repos\Lists\The Lift\obj\Debug\netcoreapp3.1\The Lift.AssemblyInfo.cs
+C:\Users\estoy\source\repos\Lists\The Lift\obj\Debug\netcoreapp3.1\The Lift.csproj.CoreCompileInputs.cache
+C:\Users\estoy\source\repos\Lists\The Lift\obj\Debug\netcoreapp3.1\The Lift.dll
+C:\Users\estoy\source\repos\Lists\The Lift\obj\Debug\netcoreapp3.1\The Lift.pdb
+C:\Users\estoy\source\repos\Lists\The Lift\obj\Debug\netcoreapp3.1\The Lift.genruntimeconfig.cache

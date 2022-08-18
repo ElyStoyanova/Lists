@@ -1,0 +1,14 @@
+C:\Users\estoy\source\repos\Lists\Memory game\bin\Debug\netcoreapp3.1\Memory game.exe
+C:\Users\estoy\source\repos\Lists\Memory game\bin\Debug\netcoreapp3.1\Memory game.deps.json
+C:\Users\estoy\source\repos\Lists\Memory game\bin\Debug\netcoreapp3.1\Memory game.runtimeconfig.json
+C:\Users\estoy\source\repos\Lists\Memory game\bin\Debug\netcoreapp3.1\Memory game.runtimeconfig.dev.json
+C:\Users\estoy\source\repos\Lists\Memory game\bin\Debug\netcoreapp3.1\Memory game.dll
+C:\Users\estoy\source\repos\Lists\Memory game\bin\Debug\netcoreapp3.1\Memory game.pdb
+C:\Users\estoy\source\repos\Lists\Memory game\obj\Debug\netcoreapp3.1\Memory game.csproj.AssemblyReference.cache
+C:\Users\estoy\source\repos\Lists\Memory game\obj\Debug\netcoreapp3.1\Memory game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estoy\source\repos\Lists\Memory game\obj\Debug\netcoreapp3.1\Memory game.AssemblyInfoInputs.cache
+C:\Users\estoy\source\repos\Lists\Memory game\obj\Debug\netcoreapp3.1\Memory game.AssemblyInfo.cs
+C:\Users\estoy\source\repos\Lists\Memory game\obj\Debug\netcoreapp3.1\Memory game.csproj.CoreCompileInputs.cache
+C:\Users\estoy\source\repos\Lists\Memory game\obj\Debug\netcoreapp3.1\Memory game.dll
+C:\Users\estoy\source\repos\Lists\Memory game\obj\Debug\netcoreapp3.1\Memory game.pdb
+C:\Users\estoy\source\repos\Lists\Memory game\obj\Debug\netcoreapp3.1\Memory game.genruntimeconfig.cache

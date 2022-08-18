@@ -1,0 +1,14 @@
+C:\Users\estoy\source\repos\Lists\exx3\bin\Debug\netcoreapp3.1\exx3.exe
+C:\Users\estoy\source\repos\Lists\exx3\bin\Debug\netcoreapp3.1\exx3.deps.json
+C:\Users\estoy\source\repos\Lists\exx3\bin\Debug\netcoreapp3.1\exx3.runtimeconfig.json
+C:\Users\estoy\source\repos\Lists\exx3\bin\Debug\netcoreapp3.1\exx3.runtimeconfig.dev.json
+C:\Users\estoy\source\repos\Lists\exx3\bin\Debug\netcoreapp3.1\exx3.dll
+C:\Users\estoy\source\repos\Lists\exx3\bin\Debug\netcoreapp3.1\exx3.pdb
+C:\Users\estoy\source\repos\Lists\exx3\obj\Debug\netcoreapp3.1\exx3.csproj.AssemblyReference.cache
+C:\Users\estoy\source\repos\Lists\exx3\obj\Debug\netcoreapp3.1\exx3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estoy\source\repos\Lists\exx3\obj\Debug\netcoreapp3.1\exx3.AssemblyInfoInputs.cache
+C:\Users\estoy\source\repos\Lists\exx3\obj\Debug\netcoreapp3.1\exx3.AssemblyInfo.cs
+C:\Users\estoy\source\repos\Lists\exx3\obj\Debug\netcoreapp3.1\exx3.csproj.CoreCompileInputs.cache
+C:\Users\estoy\source\repos\Lists\exx3\obj\Debug\netcoreapp3.1\exx3.dll
+C:\Users\estoy\source\repos\Lists\exx3\obj\Debug\netcoreapp3.1\exx3.pdb
+C:\Users\estoy\source\repos\Lists\exx3\obj\Debug\netcoreapp3.1\exx3.genruntimeconfig.cache
